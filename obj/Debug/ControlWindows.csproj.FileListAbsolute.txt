@@ -1,0 +1,8 @@
+C:\Users\andres\MainPrograms\Programming\DotnetProjects\Componentes\Lab1\ControlWindows\ControlWindows\bin\Debug\ControlWindows.dll
+C:\Users\andres\MainPrograms\Programming\DotnetProjects\Componentes\Lab1\ControlWindows\ControlWindows\bin\Debug\ControlWindows.pdb
+C:\Users\andres\MainPrograms\Programming\DotnetProjects\Componentes\Lab1\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csprojAssemblyReference.cache
+C:\Users\andres\MainPrograms\Programming\DotnetProjects\Componentes\Lab1\ControlWindows\ControlWindows\obj\Debug\ControlWindows.UserControl1.resources
+C:\Users\andres\MainPrograms\Programming\DotnetProjects\Componentes\Lab1\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+C:\Users\andres\MainPrograms\Programming\DotnetProjects\Componentes\Lab1\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.CoreCompileInputs.cache
+C:\Users\andres\MainPrograms\Programming\DotnetProjects\Componentes\Lab1\ControlWindows\ControlWindows\obj\Debug\ControlWindows.dll
+C:\Users\andres\MainPrograms\Programming\DotnetProjects\Componentes\Lab1\ControlWindows\ControlWindows\obj\Debug\ControlWindows.pdb
